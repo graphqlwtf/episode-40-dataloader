@@ -1,0 +1,18 @@
+{
+  "name": "episode-39-non-null-lists",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node-dev server2.ts",
+    "start": "ts-node server2.ts"
+  },
+  "dependencies": {
+    "@graphql-yoga/node": "2.3.0",
+    "dataloader": "^2.1.0",
+    "graphql": "16.3.0"
+  },
+  "devDependencies": {
+    "ts-node": "10.7.0",
+    "ts-node-dev": "1.1.8",
+    "typescript": "4.6.3"
+  }
+}
